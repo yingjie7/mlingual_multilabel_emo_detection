@@ -1,0 +1,3 @@
+[submodule "libs/SemEval2025-Task11-Evaluation"]
+	path = libs/SemEval2025-Task11-Evaluation
+	url = https://github.com/emotion-analysis-project/SemEval2025-Task11-Evaluation.git
